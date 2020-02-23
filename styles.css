@@ -6,3 +6,10 @@
 .top-margin {
   margin-top: 0px;
 }
+.table {
+  width: 99%;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  margin-right: 20px;
+}
